@@ -1,4 +1,4 @@
 import maxi
-print(' FUCKING BY TO ABBU')
-os.system('xdg-open')
+print(' FUCKING BY TO ABBU....')
+
 maxi.facebookweb()
